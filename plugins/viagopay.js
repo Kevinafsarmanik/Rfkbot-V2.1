@@ -10,6 +10,6 @@ let handler = async (m, { conn }) => {
 ╠═〘 ${namabot} 〙 ═`.trim(), m)
 }
 
-handler.command = /^viaumobile$/i
+handler.command = /^viaboost$/i
 
 module.exports = handler
