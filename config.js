@@ -15,10 +15,10 @@ gc1 = 'https://chat.whatsapp.com/BCkOrQkTa7pIORSOWyBJpk'
 gc2 = 'https://chat.whatsapp.com/GzDQlgoUamS5Ok4EOcYRRB'
 gc3 = ''
 global.linkGC = ['https://chat.whatsapp.com/BCkOrQkTa7pIORSOWyBJpk', 'https://chat.whatsapp.com/GzDQlgoUamS5Ok4EOcYRRB'] // ganti jadi group lu
-global.owner = ['60189830350','60149431385'] // Put your number here //owner eval
-global.kontak = ['60189830350','60149431385'] //Ketika ada yang ngetik #owner
+global.owner = ['60139407383','60189830350'] // Put your number here //owner eval
+global.kontak = ['60139407383','60189830350'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
-global.prems = ['60189830350','60149431385','6282287750102'] // Premium user has unlimited limit
+global.prems = ['60139407383','60149431385','60189830350'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -48,23 +48,23 @@ xteamkey = 'Dawnfrostkey'
 //xteam        MIMINETBOT
 namaig = 'GAK ADA :)'
 namagithub = 'GAK ADA :)'
-kasihcaption = `Nih kak`
-namakontak1 = 'LynXzy🥀'
-namakontak2 = 'BotLynXzy🥀'
+kasihcaption = `Selesai..`
+namakontak1 = 'Wan'
+namakontak2 = 'Lanxzy'
 
-//kasihcaption = `Nih Kak`
+//kasihcaption = `Selesai..`
 
 // Sticker WM
-global.packname = 'By LynXzy🥀' // ganti aja
-global.author = 'LynXzy🥀' // ganti aja
-global.watermark = 'lynXzy🥀'
-global.wm = 'LynXzy🥀'
+global.packname = 'By Wan' // ganti aja
+global.author = 'Wan Promoter' // ganti aja
+global.watermark = 'Wan'
+global.wm = 'Wan'
 
 //yyy
-bc = 'LynXzy🥀' //LynXy Broadcast
-footer = '\n©LynXzy'
-namabot = 'BotLynXzy🥀'
-namalu = 'LynXzy🥀'
+bc = 'Botz Wan🥀' //LynXy Broadcast
+footer = '\n©Wan'
+namabot = 'Wan promoter🥀'
+namalu = 'Wan🥀'
 
 
 // 
@@ -77,7 +77,7 @@ global.eror = '_*Server Error*_'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&doScale=true&scaleWidth=500&scaleHeight=500&fontsize=100&fillTextType=0&backgroundColor=%23101820&text='
 
 // Ubah saja SC dari AlyaaXzy
-global.image = 'https://telegra.ph/file/ede899da9be4d0bb0384b.jpg'//thumbnail
+global.image = 'https://telegra.ph/file/e5cffe88552e772ce2207.jpg'//thumbnail
 
 // tingkat kesulitan, semakin tinggi semakin susah
 global.multiplier = 36 // The higher, The harder levelup
