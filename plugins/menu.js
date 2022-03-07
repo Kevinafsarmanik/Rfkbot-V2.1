@@ -31,7 +31,7 @@ const defaultmenu = {
   body: '*│*⦁ %cmd %islimit %ispremium',
   footer: '*└────⦁*\n',
   after: `
-  ⬣━〔𝑳𝒚𝒏𝑿𝒛𝒚🥀〕━⬣
+  ⬣━〔Wan🥀〕━⬣
 
 `,
 }
@@ -373,7 +373,7 @@ let handler = async (m, { conn, usedprefix: _p, args, command }) => {
                             }, {
                                 "rows": [{
                                     "title": "|👤| 𝐎𝐖𝐍𝐄𝐑 𝐁𝐎𝐓",
-                                    "description": "pemilik ashborns",
+                                    "description": "pemilik Wan Bot",
                                     "rowid": ".owner"
                                 }, {
                                     "title": "|💰| 𝐃𝐎𝐍𝐀𝐒𝐈",
