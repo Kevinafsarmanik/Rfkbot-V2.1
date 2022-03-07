@@ -35,9 +35,9 @@ handler.all = async function (m, { isBlocked }) {
 ╠➥ *1 Minggu* :        *Rm 5.00*
 ║
 ╠═〘 PEMBAYARAN 〙 ═
-╠➥ Topup Pin
-║- 60189830350 (umobile)
-║- 60149431385 (digi)
+╠➥ Tng & Boost
+║- 0139407383 (Tng)
+║- 0139407383 (Boost)
 ╠═ Tertarik Untuk Beli Bot Ini?
 ╠➥Ketuk Tombol Di Bawah Ya
 ║
