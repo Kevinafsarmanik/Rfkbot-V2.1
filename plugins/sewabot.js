@@ -11,8 +11,8 @@ let handler = async(m, { conn }) => {
 Silahkan klik pada "List Harga" untuk melihat list.
 
 Pembayaran:
-Topup(Umobile): 60189830350
-Topup(Digi): 60149431385
+Boost: 0139407383
+Tng: 0139407383
 `.trim()
     const button = {
         buttonText: 'List Harga',
