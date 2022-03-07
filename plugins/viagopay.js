@@ -1,11 +1,11 @@
 let handler = async (m, { conn }) => {
 	conn.reply(m.chat, `╠═〘 PEMBAYARAN 〙 ═
-╠═ Untuk Pembayaran Via Umobile
-║➥ 60189830350
-║- chat owner terlebih dahulu
+╠═ Untuk Pembayaran Via Boost
+║➥ 0139407383
+║- Ingin jadibot?Chat dibawah
 ║- wa.me/60189830350
 ║
-╠═ © LanXzy & LynXzy
+╠═ © Wan & Wan Promoter
 ╠═ Thanks✨
 ╠═〘 ${namabot} 〙 ═`.trim(), m)
 }
