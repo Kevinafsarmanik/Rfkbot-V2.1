@@ -1,8 +1,8 @@
 let handler = async (m, { conn }) => {
 	conn.reply(m.chat, `╠═〘 PEMBAYARAN 〙 ═
-╠═ Untuk Pembayaran Via Digi
-╠➥ 60149431385
-║➥ Chat owner terlebih dahulu
+╠═ Untuk Pembayaran Via Tng
+╠➥ 0139407383
+║➥ Jika berminat jadibot chat no.dibawah
 ║- wa.me/60189830350
 ║ 
 ╠═ © LanXzy & LynXzy
@@ -10,6 +10,6 @@ let handler = async (m, { conn }) => {
 ╠═〘 ${namabot} 〙 ═`.trim(), m)
 }
 
-handler.command = /^viadigi$/i
+handler.command = /^viatng$/i
 
 module.exports = handler
