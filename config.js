@@ -11,14 +11,14 @@
 // thank you to ALL Bot creator
 // and thanks you to who support my Bot
 
-gc1 = 'https://chat.whatsapp.com/BCkOrQkTa7pIORSOWyBJpk'
-gc2 = 'https://chat.whatsapp.com/GzDQlgoUamS5Ok4EOcYRRB'
+gc1 = 'https://chat.whatsapp.com/JWVl9J1sIxMG9PwyIMyQN6'
+gc2 = 'https://chat.whatsapp.com/JWVl9J1sIxMG9PwyIMyQN6'
 gc3 = ''
-global.linkGC = ['https://chat.whatsapp.com/BCkOrQkTa7pIORSOWyBJpk', 'https://chat.whatsapp.com/GzDQlgoUamS5Ok4EOcYRRB'] // ganti jadi group lu
-global.owner = ['60139407383','60189830350'] // Put your number here //owner eval
-global.kontak = ['60139407383','60189830350'] //Ketika ada yang ngetik #owner
+global.linkGC = ['https://chat.whatsapp.com/JWVl9J1sIxMG9PwyIMyQN6', 'https://chat.whatsapp.com/GzDQlgoUamS5Ok4EOcYRRB'] // ganti jadi group lu
+global.owner = ['6283131214121','6283131214121'] // Put your number here //owner eval
+global.kontak = ['6283131214121','6283131214121'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
-global.prems = ['60139407383','60149431385','60189830350'] // Premium user has unlimited limit
+global.prems = ['6283131214121','6283131214121','6283131214121'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -49,22 +49,22 @@ xteamkey = 'Dawnfrostkey'
 namaig = 'GAK ADA :)'
 namagithub = 'GAK ADA :)'
 kasihcaption = `Selesai..`
-namakontak1 = 'Wan'
-namakontak2 = 'Lanxzy'
+namakontak1 = 'Kepin'
+namakontak2 = 'kevin afsar'
 
 //kasihcaption = `Selesai..`
 
 // Sticker WM
-global.packname = 'By Wan' // ganti aja
-global.author = 'Wan Promoter' // ganti aja
-global.watermark = 'Wan'
-global.wm = 'Wan'
+global.packname = 'By Xhvier' // ganti aja
+global.author = 'XhvierPromoter' // ganti aja
+global.watermark = 'kepin ganteng'
+global.wm = 'Kepin ganteng'
 
 //yyy
 bc = 'Botz Wan🥀' //LynXy Broadcast
-footer = '\n©Wan'
-namabot = 'Wan promoter🥀'
-namalu = 'Wan🥀'
+footer = '\n©Kevin'
+namabot = 'XHVIER🥀'
+namalu = 'kevin afsar🥀'
 
 
 // 
