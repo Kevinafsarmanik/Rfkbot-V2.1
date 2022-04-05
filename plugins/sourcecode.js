@@ -3,7 +3,7 @@ let handler = async (m, { conn }) => conn.sendButtonLoc(m.chat, await (await fet
 *────────「 SCRIPT 」 ────────*
 Eaa nyari sc ya ?🗿
 Desah Dulu
-`.trim(), '© LynXzy', 'Thanks', '.tqto')
+`.trim(), '© Kevin', 'Thanks', '.tqto')
 handler.help = ['sourcecode']
 handler.tags = ['info']
 handler.command = /^(sourcecode|sc|scbot|script|github)$/i
